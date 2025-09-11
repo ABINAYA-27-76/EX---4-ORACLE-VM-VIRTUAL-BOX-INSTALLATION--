@@ -265,6 +265,8 @@ Step 19: Login to Kali Linux
 <br>
 <img width="541" height="253" alt="Screenshot (260)" src="https://github.com/user-attachments/assets/896c2f4b-ce08-495f-811e-562db19d5363" />
 <img width="711" height="873" alt="Screenshot (258)" src="https://github.com/user-attachments/assets/4af9c241-7c21-48cd-a702-f34864cbe8b0" />
+
+### Linux Commands:
 <img width="711" height="873" alt="Screenshot (258)" src="https://github.com/user-attachments/assets/f98d60a9-35eb-4ae3-b075-468dfbee5ed9" />
 <img width="798" height="811" alt="Screenshot (259)" src="https://github.com/user-attachments/assets/0a97ec01-68d0-49d7-a67e-7bb9257a8a4e" />
 

@@ -190,14 +190,14 @@ Step 10: Start the Virtual Machine
 In VirtualBox, click Start to boot up your Kali Linux virtual machine Screenshot 2025-08-24 174421
 <br>
 <img width="1049" height="590" alt="Screenshot (262)" src="https://github.com/user-attachments/assets/436ebfeb-098e-446d-b116-4f0f75bfc6bf" />
-<\br>
+
 Step 11: Begin Kali Linux Installation
 
 1.The VM will now boot from the ISO. You’ll see a boot menu. Select Graphical Install and press Enter. Screenshot 2025-08-24 174436
 <br>
 <img width="1046" height="584" alt="Screenshot (263)" src="https://github.com/user-attachments/assets/221435f4-c8e4-40fe-a234-54226dd84a65" />
 
-<\br>
+
 Step 12: Select Language and Region
 
 1.Choose your language, location, and keyboard layout. These can be configured to your preference.
@@ -250,7 +250,7 @@ Step 19: Login to Kali Linux
 <br>
 <img width="1040" height="504" alt="Screenshot (264)" src="https://github.com/user-attachments/assets/0e14aaf5-55a4-4a41-85ea-052d15c7c34f" />
 
-<\br>
+
 ### EXPECTED OUTPUT:
 .sh method 
 
@@ -259,7 +259,6 @@ Step 19: Login to Kali Linux
 
 <img width="697" height="279" alt="Screenshot (256)" src="https://github.com/user-attachments/assets/5ae91dd2-4706-4ff3-bf46-fef29f35a10e" />
 
-<\br>
 
 ### Expected and terminal output:
 
@@ -269,7 +268,7 @@ Step 19: Login to Kali Linux
 <img width="711" height="873" alt="Screenshot (258)" src="https://github.com/user-attachments/assets/f98d60a9-35eb-4ae3-b075-468dfbee5ed9" />
 <img width="798" height="811" alt="Screenshot (259)" src="https://github.com/user-attachments/assets/0a97ec01-68d0-49d7-a67e-7bb9257a8a4e" />
 
-<\br>
+
 # Result:
 Thus, this experiment helped in understanding the fundamentals of Linux commands and Bash scripting for automation and system management.
 
